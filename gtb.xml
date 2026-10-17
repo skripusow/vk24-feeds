@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-09 09:00">
+<yml_catalog date="2026-10-17 14:54">
   <shop>
     <name>GT Best</name>
     <company>GT Best</company>
@@ -16,6 +16,7 @@
         <price>45000</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
+        <picture>https://skripusow.github.io/vk24-feeds/gtb/gtb-88b8112c.jpg</picture>
         <vendor>GT Best</vendor>
         <vendorCode>GT-Z11</vendorCode>
         <description>Технические параметры:
@@ -36,6 +37,7 @@
         <price>46000</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
+        <picture>https://skripusow.github.io/vk24-feeds/gtb/gtb-dfd7f2fc.jpg</picture>
         <vendor>GT Best</vendor>
         <vendorCode>GT-Z13</vendorCode>
         <description>Технические параметры:
@@ -55,6 +57,7 @@
         <price>61000</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
+        <picture>https://skripusow.github.io/vk24-feeds/gtb/gtb-ef20afd1.jpg</picture>
         <vendor>GT Best</vendor>
         <vendorCode>GT-K31</vendorCode>
         <description>Технические параметры:
@@ -76,6 +79,7 @@
         <price>68000</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
+        <picture>https://skripusow.github.io/vk24-feeds/gtb/gtb-5a6fe685.jpg</picture>
         <vendor>GT Best</vendor>
         <vendorCode>GT-K33</vendorCode>
         <description>Технические параметры:
@@ -96,6 +100,7 @@
         <price>66000</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
+        <picture>https://skripusow.github.io/vk24-feeds/gtb/gtb-2b12690d.jpg</picture>
         <vendor>GT Best</vendor>
         <vendorCode>GT-K35</vendorCode>
         <description>Технические параметры:
@@ -117,6 +122,7 @@
         <price>68000</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
+        <picture>https://skripusow.github.io/vk24-feeds/gtb/gtb-34b1ea8f.jpg</picture>
         <vendor>GT Best</vendor>
         <vendorCode>GT-K37</vendorCode>
         <description>Технические параметры:
@@ -138,6 +144,7 @@
         <price>122000</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
+        <picture>https://skripusow.github.io/vk24-feeds/gtb/gtb-39383090.jpg</picture>
         <vendor>GT Best</vendor>
         <vendorCode>GT-R73</vendorCode>
         <description>Технические параметры:
@@ -161,6 +168,7 @@
         <price>132000</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
+        <picture>https://skripusow.github.io/vk24-feeds/gtb/gtb-062e802c.jpg</picture>
         <vendor>GT Best</vendor>
         <vendorCode>GT-R77</vendorCode>
         <description>Технические параметры:
@@ -182,6 +190,7 @@
         <price>2900</price>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
+        <picture>https://skripusow.github.io/vk24-feeds/gtb/gtb-c0833f0c.jpg</picture>
         <vendor>GT Best</vendor>
         <vendorCode>GT-308C</vendorCode>
         <description>Технические параметры:
@@ -202,6 +211,7 @@
         <price>3700</price>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
+        <picture>https://skripusow.github.io/vk24-feeds/gtb/gtb-3d68be05.jpg</picture>
         <vendor>GT Best</vendor>
         <vendorCode>GT-308D</vendorCode>
         <description>Технические параметры:
@@ -222,6 +232,7 @@
         <price>2300</price>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
+        <picture>https://skripusow.github.io/vk24-feeds/gtb/gtb-b6073ae9.jpg</picture>
         <vendor>GT Best</vendor>
         <vendorCode>GT-A180</vendorCode>
         <description>Технические параметры:
